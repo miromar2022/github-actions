@@ -2,3 +2,7 @@
 2023-02-13 16:24:32,084 - __main__ - INFO - Weather in Berlin: 7.38
 2023-02-13 16:36:16,098 - __main__ - INFO - Token value: 
 2023-02-13 16:36:17,083 - __main__ - INFO - Weather in Berlin: 7.15
+2023-02-13 17:49:05,480 - __main__ - INFO - Token value: Token not available!
+2023-02-13 17:49:06,322 - __main__ - INFO - Weather in Berlin: 6.45
+2023-02-13 17:49:45,568 - __main__ - INFO - Token value: Token not available!
+2023-02-13 17:49:46,506 - __main__ - INFO - Weather in Prague: 6.45
